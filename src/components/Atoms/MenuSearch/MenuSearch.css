@@ -1,0 +1,9 @@
+.menuSearch{
+    padding: 1%;
+    border-radius: 5px;
+    width: 90%;
+}
+
+input:focus{
+    outline:none;
+}
